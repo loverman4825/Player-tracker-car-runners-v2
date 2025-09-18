@@ -1,1 +1,39 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
 
+# Visual Studio
+.vs/
+*.pidb
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.aps
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Mod output
+*.dll
+
+# Packages
+*.nupkg
+*.snupkg
+
+# Configs
+UserData/
